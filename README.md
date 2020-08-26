@@ -1,11 +1,14 @@
-SLiMS 8 Akasia
+e-Library for PT Rekayasa Industri
 ===============
-SENAYAN Library Management System (SLiMS) version 8 Codename Akasia
+Based on SliMs (Senayan Library Management System) codename Akasia version 8
 
-SLiMS is free open source software for library resources management
-(such as books, journals, digital document and other library materials)
-and administration such as collection circulation, collection management,
-membership, stock taking and many other else.
+With edited file :
 
-SLiMS is licensed under GNU GPL version 3. Please read "GPL-3.0 License.txt"
-to learn more about GPL.
+
+
+➡customs_report_list_inc.php (/admin/modules/reporting/customs)
+
+➡ log_view_file.php (/admin/modules/reporting/customs) *NEW FILE*
+
+➡ fstream.inc.php (/lib/contents)
+
