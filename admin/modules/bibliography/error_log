@@ -1,0 +1,4 @@
+[24-Aug-2020 12:01:01 Asia/Jakarta] PHP Notice:  Undefined variable: custom_data in /home/hmtifub/public_html/ppp/akasia/admin/modules/bibliography/index.php on line 320
+[24-Aug-2020 12:01:01 Asia/Jakarta] PHP Notice:  Undefined index: itemCodePattern in /home/hmtifub/public_html/ppp/akasia/admin/modules/bibliography/index.php on line 349
+[24-Aug-2020 12:05:12 Asia/Jakarta] PHP Notice:  Undefined index: itemCodePattern in /home/hmtifub/public_html/ppp/akasia/admin/modules/bibliography/index.php on line 349
+[25-Aug-2020 22:48:39 Asia/Jakarta] PHP Notice:  Undefined index: itemCodePattern in /home/hmtifub/public_html/ppp/akasia/admin/modules/bibliography/index.php on line 349
